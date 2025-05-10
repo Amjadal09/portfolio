@@ -66,7 +66,7 @@
 }
 /* --- END: Preloader Styles --- */
 
-header.hero-image img{
+.hero-image img{
     width: 150px; /* حجم الصورة */
     border-radius: 50%; /* إذا كنت تريدها دائرية */
     margin-bottom: 15px; /* مسافة أسفل الصورة */
